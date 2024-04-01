@@ -3,7 +3,6 @@
 I'm a freelance web/app developer available for hire.
 
 I have expertise with PHP, Javascript, Typescript, and CSS. I've worked with many tools/frameworks including Laravel, React & React Native, Angular, Vue, SCSS, Tailwind, and many others.
-My preferred stack is Laravel with React, or Vue when only small amounts of interactivity are required.
 
 I'm a full-stack developer, meaning I can help you build something fully functional that looks and feels great. Get in touch and let's work together!
 
